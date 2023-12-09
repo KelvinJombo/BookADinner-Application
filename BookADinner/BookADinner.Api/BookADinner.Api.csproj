@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>498b913e-573c-4118-9096-973d02d0901e</UserSecretsId>
+  </PropertyGroup>
+ 
+  <ItemGroup>
+    <ProjectReference Include="..\BookADinner.Contracts\BookADinner.Contracts.csproj" />
+    <ProjectReference Include="..\BookADinner.Application\BookADinner.Application.csproj" />
+    <ProjectReference Include="..\BookADinner.Infrastructure\BookADinner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

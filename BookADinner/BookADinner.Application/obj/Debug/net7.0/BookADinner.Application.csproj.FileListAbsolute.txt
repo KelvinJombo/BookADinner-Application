@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\bin\Debug\net7.0\BookADinner.Application.deps.json
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\bin\Debug\net7.0\BookADinner.Application.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\bin\Debug\net7.0\BookADinner.Application.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\bin\Debug\net7.0\BookADinner.Domain.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\bin\Debug\net7.0\BookADinner.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\refint\BookADinner.Application.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\BookADinner.Application.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Application\obj\Debug\net7.0\ref\BookADinner.Application.dll

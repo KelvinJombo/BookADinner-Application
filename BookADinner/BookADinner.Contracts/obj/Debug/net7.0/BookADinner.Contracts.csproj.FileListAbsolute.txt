@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\bin\Debug\net7.0\BookADinner.Contracts.deps.json
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\bin\Debug\net7.0\BookADinner.Contracts.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\bin\Debug\net7.0\BookADinner.Contracts.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\refint\BookADinner.Contracts.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\BookADinner.Contracts.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Contracts\obj\Debug\net7.0\ref\BookADinner.Contracts.dll

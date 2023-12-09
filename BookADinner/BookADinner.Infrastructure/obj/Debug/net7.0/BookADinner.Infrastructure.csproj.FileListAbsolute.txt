@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Infrastructure.deps.json
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Infrastructure.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Application.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Domain.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Application.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\bin\Debug\net7.0\BookADinner.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\refint\BookADinner.Infrastructure.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\BookADinner.Infrastructure.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Infrastructure\obj\Debug\net7.0\ref\BookADinner.Infrastructure.dll

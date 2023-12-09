@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\bin\Debug\net7.0\BookADinner.Domain.deps.json
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\bin\Debug\net7.0\BookADinner.Domain.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\bin\Debug\net7.0\BookADinner.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\refint\BookADinner.Domain.dll
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\BookADinner.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\BookADinner\BookADinner.Domain\obj\Debug\net7.0\ref\BookADinner.Domain.dll

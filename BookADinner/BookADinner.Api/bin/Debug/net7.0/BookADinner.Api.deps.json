@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookADinner.Api/1.0.0": {
+        "dependencies": {
+          "BookADinner.Application": "1.0.0",
+          "BookADinner.Contracts": "1.0.0",
+          "BookADinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "BookADinner.Api.dll": {}
+        }
+      },
+      "BookADinner.Application/1.0.0": {
+        "dependencies": {
+          "BookADinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookADinner.Application.dll": {}
+        }
+      },
+      "BookADinner.Contracts/1.0.0": {
+        "runtime": {
+          "BookADinner.Contracts.dll": {}
+        }
+      },
+      "BookADinner.Domain/1.0.0": {
+        "runtime": {
+          "BookADinner.Domain.dll": {}
+        }
+      },
+      "BookADinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BookADinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "BookADinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookADinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookADinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookADinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookADinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookADinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
